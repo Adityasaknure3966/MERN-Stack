@@ -1,0 +1,25 @@
+#dog {
+    display: inline-block;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    color: palevioletred;
+    background-color: aquamarine;
+}
+
+#cat {
+    display: inline-block;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    color: palevioletred;
+    background-color: aquamarine;
+}
+
+.footer {
+    text-align: center;
+}
